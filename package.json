@@ -16,7 +16,7 @@
     "@dev-plugins/react-navigation": "^0.0.5",
     "@expo/vector-icons": "^14.0.0",
     "@react-navigation/native": "^6.0.2",
-    "expo": "~50.0.4",
+    "expo": "~50.0.5",
     "expo-font": "~11.10.2",
     "expo-linking": "~6.2.2",
     "expo-router": "~3.4.6",
